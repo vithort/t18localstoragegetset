@@ -1,0 +1,7 @@
+{
+  "name": "t18localstoragegetset",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
